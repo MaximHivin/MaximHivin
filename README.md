@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hey 👋 ! Moi c'est Maxime, bienvenue sur mon profil Github !
 
-<!--
-**MaximHivin/MaximHivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis developpeur front-end et je vous présente ici quelques une de mes réalisations.
 
-Here are some ideas to get you started:
+=> HTML / CSS ? J'aime beaucoup ! Je suis particulièrement attiré par l'intégration !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+=> Javascript ? Je me suis cassé les dents mais comme on dit, "C'est en forgeant que l'on devient forgeron"
+
+=> J'ai des bases en PHP et MySQL mais j'avoue que je suis plus attiré par le Front !
+
+=> Vue ⚡⚡⚡⚡⚡ ! Vous avez compris j'adore ! C'est tout frais pour moi mais je travail dur pour y être le meilleur possible.
+
+=> Wordpress ? J'ai une spécialisation Thème custom et utilisation de WP en Headless ( combiné à Vue bien-sûr 😄😄😄 )
+
+### Je suis un jeune développeur et je suis toujours à l'écoute de remarques et d'améliorations sur mon travail ! A très vite ! 
+
+
+

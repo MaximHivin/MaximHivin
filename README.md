@@ -12,7 +12,8 @@ Je suis developpeur front-end et je vous présente ici quelques une de mes réal
 
 => Wordpress ? J'ai une spécialisation Thème custom et utilisation de WP en Headless ( combiné à Vue bien-sûr 😄😄😄 )
 
-### Je suis un jeune développeur et je suis toujours à l'écoute de remarques et d'améliorations sur mon travail ! A très vite ! 
+### Je suis un jeune développeur et je suis toujours à l'écoute de remarques
+### et d'améliorations sur mon travail ! A très vite ! 
 
 
 
